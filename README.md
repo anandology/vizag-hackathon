@@ -27,3 +27,6 @@ List of projects done at Citizen Centric Services Hacathon - Visakhapatnam
 
 ### tech toots - c2g
 <https://github.com/manikanta44/c2g>
+
+### Agro Services
+<https://github.com/sarvanis/ccsh_agroservices>
