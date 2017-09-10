@@ -4,27 +4,26 @@ List of projects done at Citizen Centric Services Hacathon - Visakhapatnam
 
 ## Projects
 
-illuminaTeam
+### illuminaTeam
 <https://github.com/praveensvsrk/CCSHackathon_illuminaTeam>
 
-Get Me a Doctor
+### Get Me a Doctor
 <https://github.com/ramsankarpeesa/get-me-a-doctor>
 
-renewme
+### renewme
 <https://github.com/rasagnavarma/renewme>
 
-FAT BOY FAMILY
+### FAT BOY FAMILY
 <https://github.com/RAVURISREESAIHARIKRISHNA/Hackathon2017>
 
-e-democracy
+### e-democracy
 <https://github.com/anaganisk/e-democracy>
 
-Helping Hands - Blood Drive
+### Helping Hands - Blood Drive
 <https://github.com/Harikamadeti/blooddrive>
 
-rythuandhra
+### rythuandhra
 <https://github.com/sandeepvenkat7/rythuandhra>
 
-tech toots - c2g
+### tech toots - c2g
 <https://github.com/manikanta44/c2g>
-
